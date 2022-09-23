@@ -21,15 +21,11 @@ ___
 A seguir são exibidos os layouts da aplicação:
 
 ## Versão Web
-![image]()
-![image]()
+![image](https://user-images.githubusercontent.com/102695596/192065735-ff0d5e93-84aa-4650-a0e2-88ba21c6416d.png)
+![image](https://user-images.githubusercontent.com/102695596/192065737-49beeffa-3a63-43fb-a69c-0e4f2d5e1ac8.png)
 
 ## Versão Mobile
-<div style="display:block">
-<img src="" width="300"/>
-<img src="" width="300"/>
-<img src="" width="300"/>
-</div>
+![mobileMockup](https://user-images.githubusercontent.com/102695596/192066863-23dc69d3-0097-46d7-a124-c3672382b6d3.png)
 
 ## 🛠 Tecnologias
 
