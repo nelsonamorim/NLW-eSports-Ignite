@@ -77,7 +77,7 @@ Este projeto é composto de 3 partes distintas:
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-  git clone git@github.com:andreviapiana/NLW-eSports-Ignite.git
+  git clone git@github.com:nelsonamorim/NLW-eSports-Ignite.git
 ```
 
 Entre no diretório do BackEnd
