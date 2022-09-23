@@ -4,7 +4,8 @@ import { Routes } from './src/routes';
 import { Loading } from './src/components/Loading';
 import { Background } from './src/components/Background';
 
-export default function App() {
+
+export default function App() { 
 
   const [fontsLoaded] = useFonts({
     Inter_400Regular,
@@ -12,6 +13,7 @@ export default function App() {
     Inter_700Bold, 
     Inter_900Black  
   });
+
 
   return (
     <Background>
