@@ -24,7 +24,7 @@ A seguir são exibidos os layouts da aplicação:
 ![image](https://user-images.githubusercontent.com/102695596/192065735-ff0d5e93-84aa-4650-a0e2-88ba21c6416d.png)
 ![image](https://user-images.githubusercontent.com/102695596/192065737-49beeffa-3a63-43fb-a69c-0e4f2d5e1ac8.png)
 
-## Versão Mobile
+## 📱 Versão Mobile
 ![mobileMockup](https://user-images.githubusercontent.com/102695596/192066863-23dc69d3-0097-46d7-a124-c3672382b6d3.png)
 
 ## 🛠 Tecnologias
@@ -53,14 +53,14 @@ As seguintes tecnologias foram utilizadas na criação deste projeto:
 - Express
 - Prisma
 
-## 🚀 Infos
+## ℹ️ Infos
 Este projeto é composto de 3 partes distintas:
 1. Backend (server)
 2. Frontend (web)
 3. Mobile (mobile)
 
 
-## 🚀 Como utilizar
+## 📚 Como utilizar
 
 💡 Tanto o Frontend Web quanto o Mobile precisam que o Backend esteja em execução para funcionar.
 
