@@ -2,7 +2,7 @@
     <img alt="NLW-eSports" title="" src="https://user-images.githubusercontent.com/106932234/191335040-dcde532c-4c11-4dec-bb6a-01b96d0e09f8.png" width="250px" />
 </h2>
 <p align="center">
-  <h1 align="center">NLW eSports | Ignite - Rocketseat :rocket:</h1>
+  <h1 align="center">NLW eSports | Ignite :rocket:</h1>
 </p>
 <p align="center">
   <a href="#-sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
